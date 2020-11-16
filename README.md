@@ -4,7 +4,7 @@ Repository to track companies that are beginner friendly.
 This repository is to track companies which are welcoming and friendly for CodeNewbies. 
 In today's IT landscape it has become increasingly hard for CodeNewbies to land their first role. 
 
-Feel free to raise a PR to add your company to this list. 
+Feel free to raise a PR to add your company to this list of companies. 
 
 Criteria to add your company -
 1. Companies should not use whiteboarding as part of their interview process.
@@ -14,4 +14,6 @@ Criteria to add your company -
 5. Provides an environment to pair program until CodeNewbies are experienced to proceed on their own.
 
 Feel free to share your suggestions if there is any criteria that needs to be included.
+
+Bonus points if you are interested in providing a referral.
 
